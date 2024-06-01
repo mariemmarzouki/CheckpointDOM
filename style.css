@@ -1,0 +1,31 @@
+.class1{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.classP{
+    display: flex;
+    justify-content: center;
+  
+}
+body{ 
+    background-image: url(pngegg\ \(3\).png);
+
+    background-position:center;
+   background-size:cover;
+    
+}
+.red{
+    color: red;
+    
+}
+.fa-heart:hover{
+    color: red;
+}
+.navbar{
+    background-color: rgb(241 233 217 / 88%);
+}
+.mimi{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
